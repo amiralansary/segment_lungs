@@ -1,3 +1,7 @@
+# PyCharm and mac temp files
+.DS_Store
+.idea/*
+
 # Data directory
 data/*
 
